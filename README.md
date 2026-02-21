@@ -30,19 +30,7 @@ fun_fact: I once built a plant watering system so my plants never die 🌱
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loveneek&show_icons=true&theme=radical&border_radius=12&hide_border=true&bg_color=0d1117&title_color=ff6ec7&icon_color=ff6ec7&text_color=ffffff" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loveneek&layout=compact&theme=radical&border_radius=12&hide_border=true&bg_color=0d1117&title_color=ff6ec7&text_color=ffffff" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Loveneek&theme=radical&hide_border=true&border_radius=12&background=0D1117&ring=ff6ec7&fire=ff6ec7&currStreakLabel=ff6ec7" />
-</p>
-
----
 
 ### 🚀 Featured Projects
 
