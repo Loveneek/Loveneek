@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Loveneek%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Engineer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Loveneek%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Peer%20Mentor&descAlignY=55&descSize=18" />
 
 ---
 
@@ -8,11 +8,12 @@
 
 ```yaml
 name: Loveneek Singh
-location: Canada 🍁
-education: Computer Science @ York University
-currently: Building cool things & learning every day
-interests: [Software Dev, Automation, Open Source]
-fun_fact: I once built a plant watering system so my plants never die 🌱
+location: Brampton, Canada 🍁
+education: Software Engineering @ York University
+currently: Building AI-powered VTO systems & Mentoring first-year students
+interests: [Software Architecture, AI Integration, Full-Stack Dev]
+fun_fact: I wrote 800+ JUnit tests for one project—I believe in unbreakable code! 🧪
+
 ```
 
 ---
@@ -20,12 +21,13 @@ fun_fact: I once built a plant watering system so my plants never die 🌱
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring-boot%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnextdotjs%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
@@ -40,6 +42,11 @@ fun_fact: I once built a plant watering system so my plants never die 🌱
 | [🏫 Room Scheduler](https://github.com/Loveneek/York-Room-Scheduler) | Smart room booking system for York University | Java |
 | [💰 RRTax](https://github.com/Loveneek/RRTax) | Tax utility web application | JavaScript |
 
+
+🌟 Project	📝 Description	🔧 Tech
+👔 Virtual Wardrobe	AI-Powered Virtual Try-On system using Gemini for garment classification and Replicate for realistic image synthesis.	Spring Boot, Next.js, Gemini AI
+🏫 Room Scheduler	Enterprise-grade booking platform featuring a 3-layer architecture and a robust suite of 800+ JUnit tests.	Java 23, JUnit 5, JavaFX
+🌱 Plant Water System	Hardware-integrated automation that monitors soil moisture levels to trigger real-time watering cycles.	MATLAB, Sensors, Automation
 ---
 
 ### 🌐 Connect With Me
