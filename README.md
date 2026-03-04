@@ -33,20 +33,13 @@ fun_fact: I wrote 800+ JUnit tests for one project—I believe in unbreakable co
 ---
 
 
-
 ### 🚀 Featured Projects
 
 | 🌟 Project | 📝 Description | 🔧 Tech |
-|:---:|:---:|:---:|
-| [🌱 Plant Water System](https://github.com/Loveneek/Matlab-PlantWaterproject) | Automated plant watering using soil moisture sensors | MATLAB |
-| [🏫 Room Scheduler](https://github.com/Loveneek/York-Room-Scheduler) | Smart room booking system for York University | Java |
-| [💰 RRTax](https://github.com/Loveneek/RRTax) | Tax utility web application | JavaScript |
-
-
-🌟 Project	📝 Description	🔧 Tech
-👔 Virtual Wardrobe	AI-Powered Virtual Try-On system using Gemini for garment classification and Replicate for realistic image synthesis.	Spring Boot, Next.js, Gemini AI
-🏫 Room Scheduler	Enterprise-grade booking platform featuring a 3-layer architecture and a robust suite of 800+ JUnit tests.	Java 23, JUnit 5, JavaFX
-🌱 Plant Water System	Hardware-integrated automation that monitors soil moisture levels to trigger real-time watering cycles.	MATLAB, Sensors, Automation
+|:---:|:--- |:---:|
+| [👔 Virtual Wardrobe](https://github.com/Loveneek) | **AI-Powered Virtual Try-On system** using Gemini for classification and Replicate for realistic image synthesis. | Spring Boot, Next.js, Gemini AI |
+| [🏫 Room Scheduler](https://github.com/Loveneek/York-Room-Scheduler) | **Enterprise-grade booking platform** featuring a 3-layer architecture and a robust suite of **800+ JUnit tests**. | Java 23, JUnit 5, JavaFX |
+| [🌱 Plant Water System](https://github.com/Loveneek/Matlab-PlantWaterproject) | **Hardware-integrated automation** monitoring soil moisture levels to trigger real-time watering cycles. | MATLAB, Sensors, Automation |
 ---
 
 ### 🌐 Connect With Me
